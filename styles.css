@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.simple-button {
+  padding: 15px 30px; /* Increased padding for a larger button */
+  font-size: 20px; /* Increased font size */
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 8px; /* Increased border-radius for a rounded appearance */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.simple-button:hover {
+  background-color: #2980b9;
+  
+  
+  
+  
+  
+}
+
+/* Add this CSS rule to style the message */
+.congratulations-message {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #3498db;
+}
